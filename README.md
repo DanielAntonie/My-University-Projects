@@ -59,8 +59,6 @@ Features & Implementation
 
 
 
-
-
 **Student Time Management Application**
 2nd year semester 4 MentalModules
 Please see the MentalModules User Manual above as well as the UML diagram and SSMS SQL database structure files
@@ -144,6 +142,94 @@ Key Learnings
 
 
 
+PROG Final Municipality Application 
+GitHub Link - https://github.com/VCSTDN2024/prog7312-poe-Daniel-Antonie.git
+YouTube Video for part 1 - https://youtu.be/bxmbOtcU5nk
+YouTube Video for part 2 - https://youtu.be/VBCwKqpEKGI
+YouTube Video for part 3 - https://youtu.be/wktITvGXHus
+Municipality Services Application
+
+**Overview**
+The Municipality Services Application is a C# Windows Forms project designed to facilitate citizen engagement by allowing users to report issues, access local events, and track service requests. The application integrates various data structures, user engagement strategies, and algorithmic techniques to provide a seamless experience for municipal service users.
+
+**Part 1:** Reporting Issues (Initial Phase)
+Objective
+The goal of the first phase was to build the foundation of the application by implementing the Report Issues functionality while ensuring a user-friendly design and engagement strategy.
+Features Implemented
+* Main Menu UI: Displays available tasks:
+    * Report Issues (Implemented in this phase)
+    * Local Events & Announcements (Disabled for now)
+    * Service Request Status (Disabled for now)
+* Report Issues Functionality:
+    * Allows users to enter:
+        * Issue location
+        * Category (Sanitation, Roads, Utilities, etc.)
+        * Detailed description
+    * Enables attachment of images/documents for better issue reporting
+    * Uses event handlers for user interactions
+    * Implement an engagement strategy (e.g., a progress bar or encouraging messages to motivate participation)
+ 
+**Technical Implementations**
+* Data Handling:
+    * Used lists to store reported issues dynamically.
+    * Implemented event-driven programming for form interactions.
+* User Engagement Strategy:
+    * Designed an intuitive UI with clear feedback messages (e.g., success alerts, error prompts).
+    * Applied consistent colour schemes and UI design to enhance usability.
+
+**Part 2:** Local Events & Announcements (Intermediate Phase)
+Objective
+This phase focused on expanding the application by introducing the Local Events & Announcements feature, implementing advanced data structures for optimized data retrieval.
+Features Implemented
+* Enhanced Main Menu: Now allows users to select:
+    * Report Issues (From Part 1)
+    * Local Events & Announcements (Newly implemented in this phase)
+    * Service Request Status (To be implemented later)
+* Local Events & Announcements Page:
+    * Displays upcoming events with categorised views
+    * Includes search functionality for finding events based on category and date
+    * Implements recommendation system based on user search history
+
+**Technical Implementations**
+* Advanced Data Structures:
+    * Sorted Dictionaries: Optimised event organisation.
+    * Queues & Priority Queues: Managed event notifications.
+    * Hash Tables & Sets: Efficient storage and lookup of event details.
+* Recommendation System:
+    * Analysed user search patterns to suggest related events dynamically.
+    * Used sorted data structures to present relevant recommendations.
+
+**Part 3:** Service Request Tracking (Final Phase)
+Objective
+The final phase focused on integrating advanced algorithms and data structures to manage and track service requests efficiently.
+Features Implemented
+* Expanded Main Menu:
+    * Includes Service Request Status functionality.
+* Service Request Status Page:
+    * Displays a list of all submitted service requests.
+    * Allows users to track progress using unique identifiers.
+    * Ensures data security by allowing users to access only their own requests.
+**Technical Implementations**
+* Tree Data Structures:
+    * Used an AVL Tree for optimised service request retrieval.
+    * Implemented a MinHeap for managing urgent requests. 
+* Graph Structures:
+    * Modeled relationships between service requests and their dependencies.
+    * Used graph traversal algorithms to optimise request tracking.
+* Performance Optimisations:
+    * Applied multi-threading to prevent UI freezing when fetching data.
+    * Implemented a Minheap to prioritise urgent service requests.
+
+**Project Insights & Learnings**
+Challenges Faced
+* Efficiently structured data for real-time issue tracking.
+* Implementing an intuitive UI while maintaining complexity in backend logic.
+* Ensuring optimal algorithmic efficiency in search and tracking functionalities.
+
+**Key Takeaways**
+* Mastery in C# Windows Forms, Data Structures, and UI/UX principles.
+* Practical experience with multi-threading, graph traversal, and optimised search techniques.
+* Understanding how to balance performance and usability in a large-scale application.
 
 
 
@@ -156,8 +242,6 @@ Key Learnings
 
 
 
-PROG Final 
-https://github.com/VCSTDN2024/prog7312-poe-Daniel-Antonie.git
 
 3rd TimeWize
 https://github.com/PerlaJbara/OPSC7311-PROG-POE.git
