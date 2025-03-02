@@ -1,19 +1,31 @@
-**# My University Projects**
-Summary of all the projects that were completed during my time in university
+# My University Projects
+Summary of all the projects that were completed during my time in university  
 
-**My C# Projects**
 
-**Recipe Management Application**
-2nd year semester 3 POE DesignaRecipe
-Please see the attached document of the user manual above 
-YouTube video link - https://youtu.be/J7v1UeLFgSw 
+Languages and technologies used during my undergraduate degree:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" />
+          
+          
+   ![My_C#_Projects](https://github.com/user-attachments/assets/002e3500-7be1-4a98-8042-0c8812d750d3)
+
+
+
+### **Recipe Management Application**  
+
+2nd year semester 3 POE DesignaRecipe  
+
+Please see the attached document of the user manual above   
+
+YouTube video link - https://youtu.be/J7v1UeLFgSw   
+
 GitHub Repository link: https://github.com/VCSTDN/prog6221---poe-Daniel-Antonie.git
 
-**Overview**
+### **Overview**
 This project, “DesignaRecipe”, is a Recipe Management Application developed in C# using Visual Studio. It started as a command-line application and grew into a GUI-based WPF application through iterative improvements. The project demonstrates key programming concepts such as string manipulation, collections, delegates, unit testing, and GUI development with WPF.
 Features & Implementation
 
-**Phase 1:** Console-Based Application
+### **Phase 1:** Console-Based Application
 * Implemented a standalone command-line application.
 * Required user input to add and manage recipes.
 * Used string manipulation techniques to process recipe details.
@@ -22,7 +34,7 @@ Features & Implementation
 * Followed international coding standards with detailed comments.
 * Maintained source code in a GitHub repository with regular, descriptive commits.
 
-**Phase 2:** Enhancements with Collections and Delegates
+### **Phase 2:** Enhancements with Collections and Delegates
 * Replaced arrays with generic collections (e.g., List<T>) for storing:
     * Recipes
     * Ingredients
@@ -30,19 +42,19 @@ Features & Implementation
 * Introduced delegates to notify users when a recipe exceeds 300 calories.
 * Implemented unit testing to validate the total calorie calculation.
 
-**Phase 3:** Graphical User Interface (GUI) with WPF
+### **Phase 3:** Graphical User Interface (GUI) with WPF
 * Upgraded the application to a Windows Presentation Foundation (WPF) GUI.
 * Implemented controls to create an interactive user interface.
 * Applied styles for an enhanced user experience and added to a more visually appealing application.
 
-**Technologies Used**
+### **Technologies Used**
 * Programming Language: C#
 * Development Environment: Visual Studio
 * Frameworks & Libraries:
     * Windows Presentation Foundation (WPF)
     * NUnit (for unit testing)
 
-**Key Learnings**
+### **Key Learnings**
 * Writing structured, maintainable console applications.
 * Utilising collections for efficient data management.
 * Implementing delegates for event-driven programming.
@@ -51,20 +63,22 @@ Features & Implementation
 
 
 
+![png](https://github.com/user-attachments/assets/45e91002-532c-4d23-983d-1e5a0f7cd21b)
 
 
 
+**Student Time Management Application**  
 
+2nd year semester 4 MentalModules  
 
+Please see the MentalModules User Manual above as well as the UML diagram and SSMS SQL database structure files  
 
+YouTube Link for Part 1 - https://youtu.be/VJN8aZoPen8  
 
+YouTube Link for Part 2 - https://youtu.be/xg5yCUdTBhI  
 
-**Student Time Management Application**
-2nd year semester 4 MentalModules
-Please see the MentalModules User Manual above as well as the UML diagram and SSMS SQL database structure files
-YouTube Link for Part 1 - https://youtu.be/VJN8aZoPen8
-YouTube Link for Part 2 - https://youtu.be/xg5yCUdTBhI
-YouTube Link for Part 3 - https://youtu.be/W6oaXiFOH4o
+YouTube Link for Part 3 - https://youtu.be/W6oaXiFOH4o  
+
 GitHub Repository Link - https://github.com/Daniel-Antonie/PROG6212-Final-POE-Daniel-Antonie-ST10186731.git
 
 **Overview**
@@ -139,14 +153,19 @@ Key Learnings
 * Implementing graphical data visualization and user reminders.
 
 
-
+![png](https://github.com/user-attachments/assets/45e91002-532c-4d23-983d-1e5a0f7cd21b)
 
 
 PROG Final Municipality Application 
-GitHub Link - https://github.com/VCSTDN2024/prog7312-poe-Daniel-Antonie.git
-YouTube Video for part 1 - https://youtu.be/bxmbOtcU5nk
-YouTube Video for part 2 - https://youtu.be/VBCwKqpEKGI
-YouTube Video for part 3 - https://youtu.be/wktITvGXHus
+
+GitHub Link - https://github.com/VCSTDN2024/prog7312-poe-Daniel-Antonie.git  
+
+YouTube Video for part 1 - https://youtu.be/bxmbOtcU5nk  
+
+YouTube Video for part 2 - https://youtu.be/VBCwKqpEKGI  
+
+YouTube Video for part 3 - https://youtu.be/wktITvGXHus  
+
 Municipality Services Application
 
 **Overview**
@@ -232,19 +251,22 @@ Challenges Faced
 * Understanding how to balance performance and usability in a large-scale application.
 
 
-
-
-
-
-
-
-
-
-
+![My_Android_Studio_Projects](https://github.com/user-attachments/assets/ef2c255d-677b-461d-ac0c-cb86ab067e77)
 
 
 3rd TimeWize
 https://github.com/PerlaJbara/OPSC7311-PROG-POE.git
+
+![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
+
+
+Gourmet Guru Mobile applicaiton 
+https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git
+
+Gourmet Guru Rest api developed with JS in vscode
+https://github.com/Daniel-Antonie/VSCODEGGRESTAPIPWIBUHS.git
+
+![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
 Final Year Project Antonie Motors Mobile app firebase android studio
 https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git
@@ -255,11 +277,7 @@ https://github.com/Daniel-Antonie/AntonieMotors-XBCAD7319.git
 Mobile App security tests 
 https://github.com/Daniel-Antonie/AntonieMotorsMobileAppSecurityTesting.git
 
-Gourmet Guru Mobile applicaiton 
-https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git
-
-Gourmet Guru Rest api developed with JS in vscode
-https://github.com/Daniel-Antonie/VSCODEGGRESTAPIPWIBUHS.git
+![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
 Application security SWIFT payment gateway app using mongodb
 https://github.com/VCSTDN2024/apds7311-poe-apds-weapons.git
