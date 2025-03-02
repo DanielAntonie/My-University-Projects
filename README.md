@@ -11,9 +11,21 @@ Languages and technologies used during my undergraduate degree:
 
 
 
-### **Recipe Management Application**  
+## **Recipe Management Application**  
 
 2nd year semester 3 POE DesignaRecipe  
+
+<img width="300" alt="Screenshot 2023-07-04 at 17 30 12" src="https://github.com/user-attachments/assets/cb25dbd1-94bf-4984-a316-7bfd5f3f29d5" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 30 55" src="https://github.com/user-attachments/assets/cd49da82-b33f-4e78-a341-f81ea3994aa2" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 32 08" src="https://github.com/user-attachments/assets/1496c2a9-0894-40d4-9a33-0c990dbf1603" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 38 58" src="https://github.com/user-attachments/assets/c0527e19-0f3b-46ba-8db1-e88be4090b69" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 41 38" src="https://github.com/user-attachments/assets/79ee00e8-816a-4177-a516-44015ca32954" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 41 49" src="https://github.com/user-attachments/assets/65ed7950-34fe-4614-8b90-c54fb4fd0cbc" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 47 12" src="https://github.com/user-attachments/assets/c2461894-7cbc-4475-b2fe-4f6fa119dd21" />
+<img width="300" alt="Screenshot 2023-07-04 at 17 52 51" src="https://github.com/user-attachments/assets/49385cbc-69e3-4e90-b474-7bfbac6d5542" />
+
+
+
 
 Please see the attached document of the user manual above   
 
@@ -67,9 +79,18 @@ Features & Implementation
 
 
 
-**Student Time Management Application**  
+## **Student Time Management Application**  
+2nd year semester 4 MentalModules
 
-2nd year semester 4 MentalModules  
+<img width="487" alt="Screenshot 2025-03-02 at 12 50 35" src="https://github.com/user-attachments/assets/c4f32fc7-5f25-47e5-b078-038249913074" />
+
+<img width="487" alt="Screenshot 2025-03-02 at 12 51 35" src="https://github.com/user-attachments/assets/00a92415-a6d0-4fdd-af1a-24aa61b40228" />
+
+<img width="487" alt="Screenshot 2025-03-02 at 12 52 07" src="https://github.com/user-attachments/assets/aabb0384-0cd4-41b7-92a4-ea030a6e23a7" />
+
+<img width="487" alt="Screenshot 2025-03-02 at 13 02 48" src="https://github.com/user-attachments/assets/7ca3253f-22ef-4b69-bfe4-3e71edf4bb8e" />
+
+  
 
 Please see the MentalModules User Manual above as well as the UML diagram and SSMS SQL database structure files  
 
