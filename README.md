@@ -82,13 +82,13 @@ Features & Implementation
 ## **Student Time Management Application**  
 2nd year semester 4 MentalModules
 
-<img width="487" alt="Screenshot 2025-03-02 at 12 50 35" src="https://github.com/user-attachments/assets/c4f32fc7-5f25-47e5-b078-038249913074" />
+<img width="300" alt="Screenshot 2025-03-02 at 12 50 35" src="https://github.com/user-attachments/assets/c4f32fc7-5f25-47e5-b078-038249913074" />
 
-<img width="487" alt="Screenshot 2025-03-02 at 12 51 35" src="https://github.com/user-attachments/assets/00a92415-a6d0-4fdd-af1a-24aa61b40228" />
+<img width="300" alt="Screenshot 2025-03-02 at 12 51 35" src="https://github.com/user-attachments/assets/00a92415-a6d0-4fdd-af1a-24aa61b40228" />
 
-<img width="487" alt="Screenshot 2025-03-02 at 12 52 07" src="https://github.com/user-attachments/assets/aabb0384-0cd4-41b7-92a4-ea030a6e23a7" />
+<img width="300" alt="Screenshot 2025-03-02 at 12 52 07" src="https://github.com/user-attachments/assets/aabb0384-0cd4-41b7-92a4-ea030a6e23a7" />
 
-<img width="487" alt="Screenshot 2025-03-02 at 13 02 48" src="https://github.com/user-attachments/assets/7ca3253f-22ef-4b69-bfe4-3e71edf4bb8e" />
+<img width="300" alt="Screenshot 2025-03-02 at 13 02 48" src="https://github.com/user-attachments/assets/7ca3253f-22ef-4b69-bfe4-3e71edf4bb8e" />
 
   
 
@@ -178,6 +178,8 @@ Key Learnings
 
 
 PROG Final Municipality Application 
+
+![Municipality Services application](https://github.com/user-attachments/assets/3c0d95b0-e63f-4a7e-a798-eb0d12626ca2)
 
 GitHub Link - https://github.com/VCSTDN2024/prog7312-poe-Daniel-Antonie.git  
 
