@@ -177,6 +177,78 @@ Key Learnings
 ![png](https://github.com/user-attachments/assets/45e91002-532c-4d23-983d-1e5a0f7cd21b)
 
 
+
+## **Agri-Energy Connect Platform**
+
+Year 3 Semester 5
+
+![Screenshot 2025-03-03 151651](https://github.com/user-attachments/assets/90b4d249-bbc5-4b10-b639-5716b6c2b959)
+
+
+**Project Overview**
+
+The Agri-Energy Connect Platform is a prototype web application developed using ASP.NET Core MVC and C#. This project demonstrates the essential functionalities of an enterprise-level system that connects farmers with employees to manage agricultural products efficiently. The application features role-based authentication, database integration, and user-friendly UI design.  
+
+GitHub Link - https://github.com/VCSTDN/prog7311-part-2-submission-Daniel-Antonie.git
+
+YouYube Video Link - https://youtu.be/KUI-9-51T_Q
+
+**Key Functionalities**
+
+**1. Database Development and Integration**
+Designed and integrated a relational database to manage farmer profiles and their products.
+Pre-populated the database with sample data to simulate real-world use cases.
+
+**2. User Role Definition and Authentication System**
+Implemented role-based authentication with two user roles:
+Farmer: Can add and view their own products.
+Employee: Can add farmer profiles, view all products, and apply search filters.
+A secure login system with authentication mechanisms to protect user data is needed.
+
+**3. Functional Features**
+For Farmers:
+Add new products with attributes like name, category, and production date.
+View a personal list of added products.
+For Employees:
+Add farmer profiles with relevant details.
+View and filter products from different farmers based on date and product type.
+
+**4. User Interface Design and Usability**
+Developed a responsive and user-friendly interface.
+Ensured clear data presentation with minimal ambiguity.
+Optimized navigation for accessibility across multiple devices (desktop, tablet, smartphone).
+
+**5. Data Accuracy and Validation**
+Implemented data validation checks to ensure input accuracy and consistency.
+Used form validation to prevent incorrect data entries.
+
+**6. Development Process and Testing**
+Followed an iterative development approach with testing at each stage.
+Conducted UX testing with sample users to improve usability.
+
+**7. Documentation and Setup Guide**
+Created a comprehensive README with:
+Instructions for setting up the development environment.
+Steps to build and run the prototype.
+Overview of system functionalities and user roles.
+
+**8. Submission Package**
+Delivered a complete submission package including:
+Source code for the web application.
+Database scripts for setup.
+README file for guidance on setup and usage.
+
+**Technologies Used**
+- ASP.NET Core MVC
+- C#
+- SQL Server for database management(SSMS)
+- Entity Framework Core for database interactions
+- Bootstrap & CSS for responsive UI design
+
+
+![png](https://github.com/user-attachments/assets/45e91002-532c-4d23-983d-1e5a0f7cd21b)
+
+
 PROG Final Municipality Application 
 
 ![Municipality Services application](https://github.com/user-attachments/assets/3c0d95b0-e63f-4a7e-a798-eb0d12626ca2)
