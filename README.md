@@ -180,7 +180,7 @@ Key Learnings
 
 ## **Agri-Energy Connect Platform**
 
-Year 3 Semester 5
+3rd Year Semester 5
 
 ![Screenshot 2025-03-03 151651](https://github.com/user-attachments/assets/90b4d249-bbc5-4b10-b639-5716b6c2b959)
 
@@ -250,6 +250,8 @@ README file for guidance on setup and usage.
 
 
 PROG Final Municipality Application 
+
+3rd Year semester 6
 
 ![Municipality Services application](https://github.com/user-attachments/assets/3c0d95b0-e63f-4a7e-a798-eb0d12626ca2)
 
@@ -346,7 +348,7 @@ Challenges Faced
 * Understanding how to balance performance and usability in a large-scale application.
 
 
-![My_Android_Studio_Projects](https://github.com/user-attachments/assets/ef2c255d-677b-461d-ac0c-cb86ab067e77)
+![Group_Android_Studio_Projects_(Kotlin_+_Firebase_+_API's)](https://github.com/user-attachments/assets/22a129c1-2848-44b7-bf60-2b8475edd9a0)
 
 
 3rd TimeWize
