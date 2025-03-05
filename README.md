@@ -449,11 +449,57 @@ Technologies Used
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
 
-Gourmet Guru Mobile applicaiton 
-https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git
+## Gourmet Guru Mobile application 
 
-Gourmet Guru Rest api developed with JS in vscode
-https://github.com/Daniel-Antonie/VSCODEGGRESTAPIPWIBUHS.git
+<img src="https://github.com/user-attachments/assets/12f8df9e-b9c5-4317-b494-6e782cdc7920" width="300" alt="Screenshot_20241028-175911">
+<img src="https://github.com/user-attachments/assets/4dc5ed5b-3a92-405f-98f7-2ce5b8ffe1f3" width="300" alt="Screenshot_20241028-175951">
+<img src="https://github.com/user-attachments/assets/e16fa15d-72f3-4969-bf1a-c3e44128f254" width="300" alt="Screenshot_20241028-182754">
+<img src="https://github.com/user-attachments/assets/3b94b89a-96b8-4c06-b98f-9f890ec36e58" width="300" alt="Screenshot_20241028-182754">
+
+Group GitHub Link - https://github.com/PerlaJbara/OPSC7312-POE-GourmetGuru.git  
+
+Gourmet Guru Rest api developed with JS in vscode  
+
+GitHub Link - https://github.com/Daniel-Antonie/VSCODEGGRESTAPIPWIBUHS.git
+
+Overview
+GourmetGuru is a fully functional Android application developed in Kotlin using Android Studio. This project was a collaborative effort, following Agile development methodologies with tools like Trello boards, MS Project, and structured workflows. The application integrates Firebase as its primary database and includes a custom-built API, initially developed in C# and later converted to JavaScript for hosting on Render. The API enables seamless data retrieval from Firebase when users select a cuisine.
+
+Key Features
+
+* Authentication & Security:
+    * Biometric authentication (fingerprint/face recognition)
+    * Secure login credentials via Firebase Authentication
+    * Single Sign-On (SSO) support
+* User Experience Enhancements:
+    * Dark mode for user accessibility
+    * Support for three different language options
+    * Comprehensive user error prevention methods
+    * Responsive navigation bar with intuitive UI
+    * Animated frame views for smooth interactions
+* Core Functionalities:
+    * API hosted on Render to fetch cuisine data dynamically
+    * Offline mode for accessing previously loaded data without an internet connection
+    * Real-time notifications integrated with an in-app timer
+    * Users can select cuisines and view all ingredients and steps
+* Advanced Development Aspects:
+    * Complex data structures for efficient data storage and retrieval
+    * Real-time Firebase database integration
+    * Fully responsive and adaptive UI
+    * Integrated wireframes and prototypes from Figma
+    * Work breakdown structures (WBS) to track project milestones
+* Deployment & Publishing:
+    * Successfully published on the Google Play Store
+    * Continuous deployment and testing using Agile best practices
+
+Development Tools & Technologies
+* App Backend + Front end: Kotlin + XML (Android Studio)
+* API Backend: JavaScript (Node.js), previously C#
+* Database: Firebase Firestore
+* API Hosting: Render
+* Project Management: Trello, MS Project
+* Design & Prototyping: Figma
+
 
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
