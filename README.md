@@ -451,6 +451,8 @@ Technologies Used
 
 ## Gourmet Guru Mobile application 
 
+Year 3 Semester 6
+
 <img src="https://github.com/user-attachments/assets/12f8df9e-b9c5-4317-b494-6e782cdc7920" width="300" alt="Screenshot_20241028-175911">
 <img src="https://github.com/user-attachments/assets/4dc5ed5b-3a92-405f-98f7-2ce5b8ffe1f3" width="300" alt="Screenshot_20241028-175951">
 <img src="https://github.com/user-attachments/assets/e16fa15d-72f3-4969-bf1a-c3e44128f254" width="300" alt="Screenshot_20241028-182754">
@@ -503,14 +505,85 @@ Development Tools & Technologies
 
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
+## Anotnie Motors mobile and website applications
+
+<img width="500" alt="Screenshot 2025-03-05 at 20 58 25" src="https://github.com/user-attachments/assets/f013e1fe-7516-4c39-bfe5-925cc28055ab" />
+<img width="500" alt="Screenshot 2025-03-05 at 21 08 43" src="https://github.com/user-attachments/assets/aebe6eb4-07e3-4cd4-a88f-5910816635d4" />
+
+Year 3 Semster 6
+
 Final Year Project Antonie Motors Mobile app firebase android studio
 https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git
+
+mobile app link - https://play.google.com/store/apps/details?id=com.opsc7311poe.xbcad_antoniemotors&pcampaignid=web_share
 
 Antonie Motors Web application azure vs
 https://github.com/Daniel-Antonie/AntonieMotors-XBCAD7319.git
 
+website link - https://antoniemotors-aqaxebguhdaeesfj.southafricanorth-01.azurewebsites.net/
+
 Mobile App security tests 
 https://github.com/Daniel-Antonie/AntonieMotorsMobileAppSecurityTesting.git
+
+Project Overview
+Antonie Motors is a fully functional mobile and web application developed for a real-world client/business to manage vehicle services, invoicing, and customer records efficiently. The project was developed using agile and scrum methodologies, incorporating best practices for software development and deployment, including all documentation and financial transparency and cost projections regarding the sustainability of the application after deployment.
+
+Technologies Used
+* Mobile Application: Kotlin (Android Studio)
+* Web Application: C# (ASP.NET Core MVC, Visual Studio)
+* Database: Firebase
+* Hosting: Website hosted on Azure (Free Tier)
+* CI/CD & Security: GitHub Pipeline, MobSF, Snyk
+
+Development Process
+* Project Management: Trello Boards, MS Project, Work Breakdown Structures
+* UI/UX Design: Wireframes, Prototypes (Figma)
+* Team Communication: MS Teams, Discord, WhatsApp
+* Client Collaboration: In-person meetings, product analysis, direct WhatsApp communication
+* Security Implementations: Authentication (SSO, Biometrics), Firebase Authentication, Security Testing
+
+Key Features
+Mobile Application (Android - Kotlin)
+* User Authentication:
+    * Single Sign-On (SSO), Biometrics (Fingerprint, Face ID)
+    * Custom email verification for new accounts (via Firebase)
+* User Roles & Permissions:
+    * Three-tier user system: Owner, Admins, Employees
+    * Role-based access control (RBAC) to restrict functionalities
+* Core Functionalities:
+    * Vehicle registration tracking
+    * Vehicle service history & invoicing
+    * Record-keeping for customers and service details
+    * Personalized user settings
+    * Real-time notifications
+    * Real-time analytics on vehicle, customer, and service data
+    * Role-based acceptance models
+    * Animations & custom loading screens
+* Additional Features:
+    * Dark Mode
+    * Multi-language support
+    * Offline mode for accessibility
+
+Web Application (ASP.NET Core MVC)
+* Simplified Interface:
+    * Similar functionalities to the mobile app with a more user-friendly desktop experience
+    * Hosted on Azure (Free Tier) for evaluation
+Security & Code Management
+* Secure Development Practices:
+    * Implemented GitHub workflows for version control and proper code standards
+    * Security testing with MobSF and Snyk to identify and mitigate vulnerabilities
+* Cloud & API Integration:
+    * Firebase for data management and authentication
+    * API hosted on Render for seamless mobile-web communication
+
+Deployment & Success
+* Google Play Store: Mobile application successfully published and available for real users
+* Client Feedback: Continuous collaboration with the business owner ensured alignment with real-world needs
+* Project Feasibility: Ongoing discussions on domain purchase and future scalability
+
+Acknowledgments
+This project was a collaborative effort from our dedicated tech fusion team, ensuring smooth development through constant communication and mutual support. Huge credit to all team members for their incredible contributions!
+
 
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
