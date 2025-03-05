@@ -464,6 +464,8 @@ Gourmet Guru Rest api developed with JS in vscode
 
 GitHub Link - https://github.com/Daniel-Antonie/VSCODEGGRESTAPIPWIBUHS.git
 
+please see all applcication images in the files above  
+
 Overview
 GourmetGuru is a fully functional Android application developed in Kotlin using Android Studio. This project was a collaborative effort, following Agile development methodologies with tools like Trello boards, MS Project, and structured workflows. The application integrates Firebase as its primary database and includes a custom-built API, initially developed in C# and later converted to JavaScript for hosting on Render. The API enables seamless data retrieval from Firebase when users select a cuisine.
 
@@ -505,19 +507,20 @@ Development Tools & Technologies
 
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
-## Anotnie Motors mobile and website applications
+## Anotnie Motors mobile and website applications  
+Year 3 Semster 6
 
 <img width="500" alt="Screenshot 2025-03-05 at 20 58 25" src="https://github.com/user-attachments/assets/f013e1fe-7516-4c39-bfe5-925cc28055ab" />
 <img width="500" alt="Screenshot 2025-03-05 at 21 08 43" src="https://github.com/user-attachments/assets/aebe6eb4-07e3-4cd4-a88f-5910816635d4" />
 
-Year 3 Semster 6
+Final Year Project Antonie Motors Mobile app firebase android studio  
 
-Final Year Project Antonie Motors Mobile app firebase android studio
-https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git
+Github Link - https://github.com/PerlaJbara/XBCAD7319-MobileAppPOE.git
 
 mobile app link - https://play.google.com/store/apps/details?id=com.opsc7311poe.xbcad_antoniemotors&pcampaignid=web_share
 
-Antonie Motors Web application azure vs
+Antonie Motors Web application   
+
 https://github.com/Daniel-Antonie/AntonieMotors-XBCAD7319.git
 
 website link - https://antoniemotors-aqaxebguhdaeesfj.southafricanorth-01.azurewebsites.net/
