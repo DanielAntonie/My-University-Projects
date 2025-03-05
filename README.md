@@ -350,9 +350,101 @@ Challenges Faced
 
 ![Group_Android_Studio_Projects_(Kotlin_+_Firebase_+_API's)](https://github.com/user-attachments/assets/22a129c1-2848-44b7-bf60-2b8475edd9a0)
 
+TimeWise - Timesheet Management Application
 
-3rd TimeWize
-https://github.com/PerlaJbara/OPSC7311-PROG-POE.git
+3rd Year Semester 5
+
+<img width="300" alt="Screenshot 2025-03-05 at 07 43 40" src="https://github.com/user-attachments/assets/2f422371-a628-45fd-9aa7-492e0b761404" />
+<img width="300" alt="Screenshot 2025-03-05 at 07 43 57" src="https://github.com/user-attachments/assets/06b707df-078d-4a78-b880-4af4d7ad7d84" />
+<img width="300" alt="Screenshot 2025-03-05 at 07 44 38" src="https://github.com/user-attachments/assets/fd769937-f1c7-47d8-b9ba-4d3f09e4674d" />
+<img width="300" alt="Screenshot 2025-03-05 at 07 45 44" src="https://github.com/user-attachments/assets/0e2d3f2d-52e2-4ddd-bab4-463f777c2a38" />
+<img width="600" alt="Screenshot 2025-03-05 at 07 45 04" src="https://github.com/user-attachments/assets/fbc363df-1174-4a2c-b6b4-a2e35ad64933" />
+
+
+GitHub - https://github.com/PerlaJbara/OPSC7311-PROG-POE.git  
+
+
+Project Overview
+TimeWise is a timesheet management application developed using Kotlin in Android Studio with Firebase as the backend for data storage. This application is designed to streamline the time-tracking process, ensuring that professionals can efficiently log and manage their work hours with minimal effort. The app incorporates intelligent automation, an intuitive UI, and gamification elements to enhance user engagement.
+
+
+Key Features
+1. User Authentication
+* Users can log in securely using a username and password.
+* Firebase Authentication ensures data security and user privacy.
+
+2. Timesheet Entry Management
+* Users can create timesheet entries specifying:
+    * Date of the entry
+    * Start and end times
+    * Description of the task
+    * Category assignment
+    * Optional photograph attachment for each entry
+* The system automatically calculates work hours based on input times.
+
+3. Category-Based Organization
+* Users can create categories to group timesheet entries.
+* Allows easy tracking of hours spent on different tasks.
+
+4. Automated Time Tracking
+* Animated clock feature that starts ticking when tracking begins and stops when tracking ends.
+* Automatic time capture calculates work duration seamlessly.
+
+5. Calendar & Reminders
+* Integrated calendar feature to set reminders for important events.
+* Ensures users never miss a deadline or scheduled work session.
+
+6. Analytics and Progress Tracking
+* Users can view:
+    * Total hours worked within a selectable period.
+    * Graphical representation of daily work hours.
+    * Performance indicators for maintaining minimum and maximum work hour goals.
+* Data visualization enables better time management insights.
+
+7. Data Storage and Security
+* Firebase Realtime Database securely stores all timesheet data online.
+* Ensures data consistency and accessibility across devices.
+
+8. Gamification & User Engagement
+* Designed to make time tracking less tedious and more engaging.
+* Gamification elements such as progress and achievement indicators motivate users.
+
+Development & Project Management
+* Prototyping & UI Design: Created Figma-based prototypes and mock designs for optimal usability.
+* Agile Development: Implemented Agile methodology using Trello boards for task tracking.
+* Collaboration Tools: Used WhatsApp for team communication and GitHub for code versioning.
+* Project Tracking: Managed timelines and goals using Microsoft Project.
+* Comparative Research: Analyzed three existing timesheet applications to enhance feature set and usability.
+
+Final Submission Requirements
+* Fully functional Android application with the following capabilities:
+    * Secure login & authentication
+    * Timesheet entry creation & tracking
+    * Graphical work hour visualization
+    * Data storage in Firebase
+    * Automated time calculation
+
+* README File with:
+    * Setup instructions for running the application
+    * Feature explanations
+    * User guide for navigation
+* Source Code Repository: Well-structured GitHub repository with proper workflow management.
+
+
+* Documentation & Reports:
+    * Work Breakdown Structures (WBS)
+    * UI Prototypes (Figma)
+    * Agile task management reports
+    * Research & comparative analysis findings
+
+Technologies Used
+* Programming Language: Kotlin
+* IDE: Android Studio
+* Database: Firebase Realtime Database
+* Project Management: Microsoft Project, Trello
+* UI/UX Design: Figma
+* Version Control: GitHub
+
 
 ![png (1)](https://github.com/user-attachments/assets/8fac6155-8ea1-45cc-bf49-fcf2c5ff70e4)
 
